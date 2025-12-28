@@ -81,7 +81,7 @@ public class Product {
                 "Australia"
         );
     }
-　
+
     public void setCountry(String country) {
         this.country = country;
     }
